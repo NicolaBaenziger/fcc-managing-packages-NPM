@@ -1,6 +1,6 @@
 {
-	"author": "Nicola Bänziger",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Nicola Bänziger",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
